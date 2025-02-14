@@ -40,7 +40,9 @@ Simply upload an image, and the tool will remove the background automatically.
 
 | Input Image | Output Image |
 |-------------|-------------|
-| ![Input](https://your-image-url.com/input.jpg) | ![Output](https://your-image-url.com/output.png) |
+
+```
+```
 
 ## 🤝 Contribution
 
